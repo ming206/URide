@@ -106,7 +106,5 @@ public static class Location {
             info.put("streetNumber", this.streetNumber);
             return info;
         }
-        
-        
-        
-        CATCH ME OUTSIDE HOW BAH DAH? hagsdklfjdslijflk
+	}
+}
